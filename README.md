@@ -49,4 +49,8 @@ In life-threatening emergencies, every minute counts. Delays in response time ca
 
 Given this urgency, predicting firefighter intervention times following an emergency call would be highly valuable. Accurate estimations could help call centers reassure those in distress, optimize emergency logistics, and refine dispatch and routing strategies—ultimately reducing response times and improving overall efficiency.
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+--------
+# Data
+This project relies on two datasets: [LFB's incident data](https://data.london.gov.uk/dataset/london-fire-brigade-incident-records) and [LFB's mobilization data](https://data.london.gov.uk/dataset/london-fire-brigade-mobilisation-records).
+Both datasets are sourced from The London Datastore, a free and open data-sharing platform that provides public access to various datasets related to London.
+
