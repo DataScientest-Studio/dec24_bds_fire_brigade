@@ -1,4 +1,4 @@
-London Fire Brigade
+##London Fire Brigade
 ==============================
 
 This Data Science project focuses on analyzing and estimating the attendance time of the London Fire Brigade. As the busiest fire and rescue service in the UK and one of the largest globally, understanding its response efficiency is crucial. The study aims to provide insights into factors affecting response times and overall operational performance.
@@ -41,5 +41,11 @@ Project Organization
     │   │   └── visualize.py
 
 --------
+##Context
+The London Fire Brigade (LFB) is the world’s largest fire service, operating 103 stations with a team of over 5,000 professional firefighters. Covering 13 boroughs across London—home to 8 million residents—the Brigade responds to between 100,000 and 130,000 emergency calls annually, serving a vast area of 1,587 square kilometers.
+
+In life-threatening emergencies, every minute counts. Delays in response time can reduce survival chances or increase the severity of consequences. When it comes to fires, a well-known saying illustrates the urgency: "In the first minute, a fire can be extinguished with a glass of water; in the second, with a bucket; and in the third, with a tanker." Rapid response is essential for minimizing damage and saving lives.
+
+Given this urgency, predicting firefighter intervention times following an emergency call would be highly valuable. Accurate estimations could help call centers reassure those in distress, optimize emergency logistics, and refine dispatch and routing strategies—ultimately reducing response times and improving overall efficiency.
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
