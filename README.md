@@ -1,7 +1,7 @@
 London Fire Brigade
 ==============================
 
-This repo is a Starting Pack for DS projects. You can rearrange the structure to make it fits your project.
+This Data Science project focuses on analyzing and estimating the attendance time of the London Fire Brigade. As the busiest fire and rescue service in the UK and one of the largest globally, understanding its response efficiency is crucial. The study aims to provide insights into factors affecting response times and overall operational performance.
 
 Project Organization
 ------------
