@@ -54,3 +54,50 @@ Given this urgency, predicting firefighter intervention times following an emerg
 This project relies on two datasets: [LFB's incident data](https://data.london.gov.uk/dataset/london-fire-brigade-incident-records) and [LFB's mobilization data](https://data.london.gov.uk/dataset/london-fire-brigade-mobilisation-records).
 Both datasets are sourced from The London Datastore, a free and open data-sharing platform that provides public access to various datasets related to London.
 
+--------
+
+# 🚀 Project Roadmap  
+
+## 1️⃣ Data Exploration  
+- Downloading the dataset  
+- Getting an overview (features, target variable, missing values)  
+- Descriptive statistics & visualization  
+- Checking correlations between features  
+
+## 2️⃣ Data Preparation  
+- Handling missing values  
+- Selecting target variable  
+- Feature engineering  
+- Encoding categorical features  
+- Standardization & normalization  
+- Splitting data into train/test sets  
+
+## 3️⃣ Modeling  
+### 🔹 Baseline Models  
+- Testing simple models:  
+  - Linear Regression  
+  - Random Forest  
+  - XGBoost  
+- Evaluating baseline performance  
+
+### 🔹 Model Optimization  
+- Hyperparameter tuning with **Random Search**  
+- Feature selection and importance analysis  
+
+### 🔹 Advanced Modeling  
+- Training an **MLPRegressor** (Multi-Layer Perceptron)  
+- Experimenting with **Neural Networks** for improved performance  
+
+## 4️⃣ Model Evaluation  
+- Comparing model performance using metrics (MAE, RMSE, R²)  
+- Cross-validation for robustness  
+- Analyzing feature importance  
+
+## 5️⃣ Streamlit App  
+- Building an interactive **Streamlit** application  
+- Showcasing the modeling process & predictions  
+- Adding visualizations for insights  
+---
+
+
+
