@@ -56,7 +56,7 @@ Both datasets are sourced from The London Datastore, a free and open data-sharin
 
 --------
 
-# 🚀 Project Roadmap  
+# Project Roadmap  
 
 ## 1️⃣ Data Exploration  
 - Downloading the dataset  
