@@ -7,6 +7,7 @@ import modules.modelling as modelling
 # Cache datasets
 @st.cache_data
 def load_data():
+    ## WARNING: YOU NEED TO LOAD THE MERGED CSV YOURSELF THE TABLE IS TO BIG TO PUT ON GITHUB
     path = "C:/datascientest/streamlit/"
     print("loading dataset")
     # load the preprocessed df
