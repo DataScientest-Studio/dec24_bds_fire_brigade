@@ -77,7 +77,8 @@ Both datasets are sourced from The London Datastore, a free and open data-sharin
 
 ### 🔹 Advanced Modeling  
 - Training an **MLPRegressor** (Multi-Layer Perceptron)  
-- Experimenting with **Neural Networks** for improved performance  
+- Experimenting with **Neural Networks** for improved performance
+- Testing **Elastic Net Regularization** model
 
 ## 4️⃣ Model Evaluation  
 - Comparing model performance using metrics (MAE, RMSE, R²)  
