@@ -8,28 +8,17 @@ Project Organization
 
     ├── LICENSE
     ├── README.md          
-    ├── models
     ├── notebooks          
     |    └── basic-models-linearregression-xgboost.ipynb
     |    └── data-preprocessing.ipynb
     |    └── deep-learning-regression.ipynb
+    |    └── elasticnet-randomforest.ipynb
     |    └── incidents-exploration.ipynb
     |    └── mobilisation-exploration.ipynb
     ├── reports                   
-    |   └── london_fire_brigade_report_1.pdf 
+    |   └── london_fire_brigade_report_1.pdf
+    |   └── london_fire_brigade_report_2.pdf 
     ├── requirements.txt
-    ├── src                
-    │   ├── __init__.py    
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── build_features.py
-    │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
-    │   │
-    │   ├── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │   │   └── visualize.py
 
 --------
 # Context
