@@ -19,6 +19,24 @@ Project Organization
     |   └── london_fire_brigade_report_1.pdf
     |   └── london_fire_brigade_report_2.pdf 
     ├── requirements.txt
+    ├── src                
+    │   ├── __init__.py    
+    │   ├── streamlit
+    │   │   ├── images
+    |   |   |   └── attendance_delay.png
+    |   |   |   └── attendance_time.png
+    |   |   |   └── attendance_time.png
+    |   |   |   └── attendance_time_property.png
+    |   |   |   └── incident_map.png
+    |   |   |   └── incident_time.png
+    │   │   ├── modules
+    |   |   |   └── data_exploration.py
+    |   |   |   └── data_preparation.py
+    |   |   |   └── modelling.py
+    |   |   └── config.py
+    |   |   └── lfb.py
+    |   |   └── requirements.txt
+    |   |   └── app.py
 
 --------
 # Context
